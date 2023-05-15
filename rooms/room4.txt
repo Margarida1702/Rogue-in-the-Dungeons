@@ -1,0 +1,13 @@
+#
+# 0 D Sala3.txt 1 key2
+#
+WWWWWWWWWW
+W     MMMW
+W W  WWWWW
+W W GW   W
+WWW  W   W
+W B  WWWWW
+W WW     W
+W T  WWWWW
+W   T    0
+WWWWWWWWWW

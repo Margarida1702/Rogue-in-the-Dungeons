@@ -1,0 +1,16 @@
+#
+# 0 D Sala0.txt 1 key1
+# 1 D Sala0.txt 0
+#
+# k key1
+#
+WWWWWWWWWW
+WS   G   W
+W        W
+W  m  k  W
+W        W
+W      W W
+W    B WhW
+W  WWWWW W
+0  W     W
+WWWW1WWWWW

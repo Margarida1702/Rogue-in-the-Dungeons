@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒùÚÜ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¾‘
+g	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ğ×Ôüÿÿÿÿ
+b
+java:S1659"GDeclare "nextRoomID" and all following declarations on a separate line.(“Ğ×Ôüÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ŒùÚÜ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(â¾‘

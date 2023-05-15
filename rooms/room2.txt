@@ -1,0 +1,14 @@
+#
+# 0 E Sala0.txt 2
+# 1 E Sala3.txt 0
+#
+WWWW0WWWWW
+W        W
+W  WWW   W
+W        W
+W   S  m W
+W        W
+WWWWW    W
+1   WB   W
+W    s   W
+WWWWWWWWWW
